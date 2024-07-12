@@ -24,7 +24,7 @@
 
 ## 💻 Languages and Tools:
 
-![SQlite3](https://img.shields.io/badge/SQLite3-white?style=flat&logo=Sqlite&logoColor=white&color=black)
+![SQlite3](https://img.shields.io/badge/SQLite3-white?style=flat&logo=Sqlite&logoColor=white&color=black) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 
 
 <br/><br/><br/><br/>
