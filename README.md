@@ -40,8 +40,10 @@ flowchart LR
     
     id1(((Server is listening))) --first_step--> id2(((client)))
     id2(((client))) --second_step--> id3(((User Interface)))
-    id3(((User Interface))) --ochoose_to_continue--all_over --> id1(((Server is listening)))
-    id3(((User Interface))) --ochoose_to_exit--> id4(((Exit)))
+    id3(((User Interface))) --third_step--> id5(((Saving the Data)))
+    id5(((Saving the Data))) --ochoose_to_continue--all_over --> id1(((Server is listening)))
+    id3(((User Interface))) --third_step--> id6(((Saving the Data)))
+    id6(((Saving the Data))) --ochoose_to_exit--> id4(((Exit)))
     %% Link *within* subgraph2:
     %% subgraph2 inherits the direction of the top-level graph (LR)
     %% outside ---> top2
