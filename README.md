@@ -38,9 +38,6 @@ This project manages a weekly repeating task list for a family. The server manag
 - Python 3.x
 - SQLite3
 
-## Overview
-This project manages a weekly repeating task list for a family. The server manages the tasks, which repeat weekly based on the days of the week, while the client allows family members to log in and mark tasks they have completed for the day. Each task has a weight (e.g., clearing dishes is worth 2 points, taking out the dog is worth 1 point, hanging laundry is worth 3 points). At the end of the week, the system announces the winner with the highest points.
-
 ## Features
 - **Server**: Allows managing and editing tasks that repeat every week based on the days of the week.
 - **Client**: Allows family members to log in, mark completed tasks, and see their points for the day.
