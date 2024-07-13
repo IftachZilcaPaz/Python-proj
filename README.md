@@ -19,9 +19,7 @@ flowchart LR
     %% outside ---> top2
 ```
 
-# Python-proj
-
-# Family Task List Project
+# Python Family Task List Project
 
 ## Table of Contents
 - [Overview](#overview)
